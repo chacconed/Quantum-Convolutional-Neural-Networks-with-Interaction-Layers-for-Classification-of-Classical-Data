@@ -10,8 +10,7 @@ The network used:
 
 ![whole_netpng](https://github.com/chacconed/Quantum-Convolutional-Neural-Networks-with-Interaction-Layers-for-Classification-of-Classical-Data/assets/69166614/a8c2b911-4d59-4d8d-a5a3-5f1fcd3f4122)
 
-
-The 3-qubit interaction layers used:
+The 3-qubit interaction layers employed were as follows:
 
 ![IL1](https://github.com/chacconed/Quantum-Convolutional-Neural-Networks-with-Interaction-Layers-for-Classification-of-Classical-Data/assets/69166614/ba5c66df-9e65-41ce-95bb-d7e9cae16247)
 
