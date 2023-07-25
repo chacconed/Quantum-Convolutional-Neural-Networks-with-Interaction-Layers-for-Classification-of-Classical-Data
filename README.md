@@ -6,14 +6,18 @@ This is the code of the paper submitted in arxiv: https://arxiv.org/abs/2307.117
 ipynb files are solely used as it was important to edit, analyze and run our codes in Google Colab and Kaggle due to hardware limitations.
 The ipynb files are written such that a user can easily select ipynb cells to convert them into .py files.
 
-THe network used:
+The network used:
 
 ![whole_netpng](https://github.com/chacconed/Quantum-Convolutional-Neural-Networks-with-Interaction-Layers-for-Classification-of-Classical-Data/assets/69166614/a8c2b911-4d59-4d8d-a5a3-5f1fcd3f4122)
 
 
-The ansatzes used:
-![ansatz2](https://github.com/chacconed/Quantum-Convolutional-Neural-Networks-with-Interaction-Layers-for-Classification-of-Classical-Data/assets/69166614/a9451ff8-ec15-4a18-86be-641a37b72242)
-![ansatz1](https://github.com/chacconed/Quantum-Convolutional-Neural-Networks-with-Interaction-Layers-for-Classification-of-Classical-Data/assets/69166614/9ab5c912-69ac-4f39-b7c5-c6cfb3ed5e0b)
+The 3-qubit interaction layers used:
+
+![IL1](https://github.com/chacconed/Quantum-Convolutional-Neural-Networks-with-Interaction-Layers-for-Classification-of-Classical-Data/assets/69166614/ba5c66df-9e65-41ce-95bb-d7e9cae16247)
+
+![IL2](https://github.com/chacconed/Quantum-Convolutional-Neural-Networks-with-Interaction-Layers-for-Classification-of-Classical-Data/assets/69166614/bcf71771-a84b-4fc0-a8cf-989538b68814)
+
+
 
 The performance due to 3-qubit interaction layers
 
