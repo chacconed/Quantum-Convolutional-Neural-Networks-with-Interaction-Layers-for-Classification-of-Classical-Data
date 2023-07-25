@@ -23,3 +23,4 @@ The performance due to 3-qubit interaction layers
 Results for Binary Classification:
 ![image](https://github.com/chacconed/Quantum-Convolutional-Neural-Networks-with-Interaction-Layers-for-Classification-of-Classical-Data/assets/69166614/753f5b2b-d463-4326-93dd-63dbd430f7be)
 
+
